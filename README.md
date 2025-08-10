@@ -2,6 +2,8 @@
 
 # Réalisez une étude de santé publique avec Python: Analyse de la sous-nutrition mondiale pour la FAO (2013-2017)
 <h2>Description</h2>
+Analyser les données historiques mondiales sur l’alimentation (2013-2017) afin de produire des indicateurs clés, identifier les tendances nutritionnelles et proposer des pistes d’amélioration pour la sécurité alimentaire, en s’appuyant sur des traitements statistiques et des visualisations claires.
+
 
 
 <br />
